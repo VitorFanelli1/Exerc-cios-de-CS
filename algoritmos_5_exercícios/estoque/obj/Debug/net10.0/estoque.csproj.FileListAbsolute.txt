@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\estoque\bin\Debug\net10.0\estoque.exe
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\estoque\bin\Debug\net10.0\estoque.deps.json
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\estoque\bin\Debug\net10.0\estoque.runtimeconfig.json
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\estoque\bin\Debug\net10.0\estoque.dll
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\estoque\bin\Debug\net10.0\estoque.pdb
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\estoque\obj\Debug\net10.0\estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\estoque\obj\Debug\net10.0\estoque.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\estoque\obj\Debug\net10.0\estoque.AssemblyInfo.cs
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\estoque\obj\Debug\net10.0\estoque.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\estoque\obj\Debug\net10.0\estoque.sourcelink.json
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\estoque\obj\Debug\net10.0\estoque.dll
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\estoque\obj\Debug\net10.0\refint\estoque.dll
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\estoque\obj\Debug\net10.0\estoque.pdb
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\estoque\obj\Debug\net10.0\estoque.genruntimeconfig.cache
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\estoque\obj\Debug\net10.0\ref\estoque.dll

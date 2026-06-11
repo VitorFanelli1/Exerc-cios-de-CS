@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\contagem_regressiva\bin\Debug\net10.0\contagem_regressiva.exe
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\contagem_regressiva\bin\Debug\net10.0\contagem_regressiva.deps.json
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\contagem_regressiva\bin\Debug\net10.0\contagem_regressiva.runtimeconfig.json
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\contagem_regressiva\bin\Debug\net10.0\contagem_regressiva.dll
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\contagem_regressiva\bin\Debug\net10.0\contagem_regressiva.pdb
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\contagem_regressiva\obj\Debug\net10.0\contagem_regressiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\contagem_regressiva\obj\Debug\net10.0\contagem_regressiva.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\contagem_regressiva\obj\Debug\net10.0\contagem_regressiva.AssemblyInfo.cs
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\contagem_regressiva\obj\Debug\net10.0\contagem_regressiva.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\contagem_regressiva\obj\Debug\net10.0\contagem_regressiva.sourcelink.json
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\contagem_regressiva\obj\Debug\net10.0\contagem_regressiva.dll
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\contagem_regressiva\obj\Debug\net10.0\refint\contagem_regressiva.dll
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\contagem_regressiva\obj\Debug\net10.0\contagem_regressiva.pdb
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\contagem_regressiva\obj\Debug\net10.0\contagem_regressiva.genruntimeconfig.cache
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\contagem_regressiva\obj\Debug\net10.0\ref\contagem_regressiva.dll

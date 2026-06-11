@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\comparar\bin\Debug\net10.0\comparar.exe
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\comparar\bin\Debug\net10.0\comparar.deps.json
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\comparar\bin\Debug\net10.0\comparar.runtimeconfig.json
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\comparar\bin\Debug\net10.0\comparar.dll
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\comparar\bin\Debug\net10.0\comparar.pdb
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\comparar\obj\Debug\net10.0\comparar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\comparar\obj\Debug\net10.0\comparar.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\comparar\obj\Debug\net10.0\comparar.AssemblyInfo.cs
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\comparar\obj\Debug\net10.0\comparar.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\comparar\obj\Debug\net10.0\comparar.sourcelink.json
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\comparar\obj\Debug\net10.0\comparar.dll
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\comparar\obj\Debug\net10.0\refint\comparar.dll
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\comparar\obj\Debug\net10.0\comparar.pdb
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\comparar\obj\Debug\net10.0\comparar.genruntimeconfig.cache
+C:\Users\User\Documents\Exerc-cios-de-CS\algoritmos_5_exercícios\comparar\obj\Debug\net10.0\ref\comparar.dll
